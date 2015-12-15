@@ -1,0 +1,8 @@
+
+name=“HerculesWizard”
+url="https://copy.com/z42HCiLhLfdUYK2k/HerculesBuild.zip?download=1"
+img="https://copy.com/bq9qndzBEDrVbqZB/hercules.jpg?download=1"
+fanart="https://copy.com/RZ3kSZrIz19QZHo7/herculescover.jpg?download=1"
+description=“Hercules Build”
+
+
